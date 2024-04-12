@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Maxime</h1>
 
 - 🔭 I’m currently working on [Winterbike](https://winterbike24.fr/)
 
