@@ -1,7 +1,5 @@
 
-- 🔭 I’m currently working on [Winterbike](https://winterbike24.fr/)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **PHP, Laravel, Javascript**
 
